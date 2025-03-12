@@ -17,13 +17,6 @@ jobs:
       - name: Set up Quarto
         uses: quarto-dev/quarto-actions/setup@v2
       
-      - name: Set up RLang
-        uses: r-lib/actions/setup-r@v2
-      
-      - name: install R deps
-        run: Rscript -e "install.packages(c('stringr', 'lubridate','dplyr','readr', 'gt', 'knitr'), repos='https://cran.rstudio.com')"
-
-
       - name: Render and Publish
         uses: quarto-dev/quarto-actions/publish@v2
         with:
