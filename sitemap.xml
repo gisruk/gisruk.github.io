@@ -2,50 +2,54 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://gisruk.github.io/keynotes/index.html</loc>
-    <lastmod>2025-03-07T15:34:39.968Z</lastmod>
-  </url>
-  <url>
-    <loc>https://gisruk.github.io/program/index.html</loc>
-    <lastmod>2025-03-07T15:34:39.975Z</lastmod>
-  </url>
-  <url>
-    <loc>https://gisruk.github.io/coc/index.html</loc>
-    <lastmod>2025-03-07T15:34:39.949Z</lastmod>
-  </url>
-  <url>
-    <loc>https://gisruk.github.io/osgeo/index.html</loc>
-    <lastmod>2025-03-07T15:34:39.975Z</lastmod>
-  </url>
-  <url>
-    <loc>https://gisruk.github.io/organisation/index.html</loc>
-    <lastmod>2025-03-07T15:34:39.975Z</lastmod>
-  </url>
-  <url>
-    <loc>https://gisruk.github.io/venue/index.html</loc>
-    <lastmod>2025-03-07T15:34:40.023Z</lastmod>
-  </url>
-  <url>
-    <loc>https://gisruk.github.io/registration/index.html</loc>
-    <lastmod>2025-03-07T15:34:40.023Z</lastmod>
-  </url>
-  <url>
-    <loc>https://gisruk.github.io/index.html</loc>
-    <lastmod>2025-03-07T15:34:39.968Z</lastmod>
-  </url>
-  <url>
-    <loc>https://gisruk.github.io/proceedings/index.html</loc>
-    <lastmod>2025-03-07T15:34:39.975Z</lastmod>
-  </url>
-  <url>
-    <loc>https://gisruk.github.io/coc/harassment.html</loc>
-    <lastmod>2025-03-07T15:34:39.949Z</lastmod>
+    <lastmod>2025-03-12T15:19:23.946Z</lastmod>
   </url>
   <url>
     <loc>https://gisruk.github.io/cfp/index.html</loc>
-    <lastmod>2025-03-07T15:34:39.949Z</lastmod>
+    <lastmod>2025-03-12T15:19:23.928Z</lastmod>
+  </url>
+  <url>
+    <loc>https://gisruk.github.io/mentorship/index.html</loc>
+    <lastmod>2025-03-12T15:19:23.953Z</lastmod>
+  </url>
+  <url>
+    <loc>https://gisruk.github.io/coc/index.html</loc>
+    <lastmod>2025-03-12T15:19:23.928Z</lastmod>
+  </url>
+  <url>
+    <loc>https://gisruk.github.io/osgeo/index.html</loc>
+    <lastmod>2025-03-12T15:19:23.953Z</lastmod>
+  </url>
+  <url>
+    <loc>https://gisruk.github.io/organisation/index.html</loc>
+    <lastmod>2025-03-12T15:19:23.953Z</lastmod>
+  </url>
+  <url>
+    <loc>https://gisruk.github.io/venue/index.html</loc>
+    <lastmod>2025-03-12T15:19:23.954Z</lastmod>
+  </url>
+  <url>
+    <loc>https://gisruk.github.io/registration/index.html</loc>
+    <lastmod>2025-03-12T15:19:23.954Z</lastmod>
+  </url>
+  <url>
+    <loc>https://gisruk.github.io/index.html</loc>
+    <lastmod>2025-03-12T15:19:23.946Z</lastmod>
+  </url>
+  <url>
+    <loc>https://gisruk.github.io/proceedings/index.html</loc>
+    <lastmod>2025-03-12T15:19:23.953Z</lastmod>
+  </url>
+  <url>
+    <loc>https://gisruk.github.io/participation/index.html</loc>
+    <lastmod>2025-03-12T15:19:23.953Z</lastmod>
+  </url>
+  <url>
+    <loc>https://gisruk.github.io/coc/harassment.html</loc>
+    <lastmod>2025-03-12T15:19:23.928Z</lastmod>
   </url>
   <url>
     <loc>https://gisruk.github.io/ecrs/index.html</loc>
-    <lastmod>2025-03-07T15:34:39.949Z</lastmod>
+    <lastmod>2025-03-12T15:19:23.928Z</lastmod>
   </url>
 </urlset>
