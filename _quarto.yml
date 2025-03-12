@@ -44,6 +44,8 @@ website:
             text: Accommodation 
           - href: coc/
             text: Code of Conduct
+          - href: participation/
+            text: Preparing your Talk/Poster
       - text: "Programme"
         menu:
           - href: program/

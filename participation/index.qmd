@@ -6,11 +6,12 @@ title: "Participating in the Conference"
 
 Posters can be a maximum size of A0 in a landscape format. We will provide the poster stands and pins. 
 
-To help us ensure the posters are up for display by the poster sessions, please bring your poster to the poster hall no later than 1000 Thursday April 24th. We will have conference staff/volunteers available to assist you in hanging the poster if needed.
+To help us ensure the posters are up for display by the poster sessions, please bring your poster to the poster hall no later than 10:00 AM on Thursday April 24th. We will have conference staff/volunteers available to assist you in hanging the poster if needed.
 
 # Talks
 
-Talk slots are 20 minutes. We recommend speakers prepare 15 minutes of material, and take questions for five minutes. There are three talks per session. Session information is available on the [Program page](../program)
+Talk slots are 20 minutes. We recommend speakers prepare 15 minutes of material, and take questions for five minutes. There are three talks per session. Session information is available on the [Program page](../program). If you are slated to chair a session and cannot attend the conference, please let the local organising team know as soon as possible. 
 
 # Voting for awards
 
+Information will be posted at the conference on how to vote for your favorite paper. We will use voting from attendees to determine the **Best Overall Paper** and the **Best Overall Poster**. In addition, the [GoFundGeo](../osgeo) and the [Sinesio Alves Junior](https://www.ucl.ac.uk/bartlett/casa/remembering-sinesio-alves-junior) prizes will be administered by OSGeo and CASA, respectively. 
