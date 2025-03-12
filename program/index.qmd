@@ -8,7 +8,10 @@ execute:
 ---
 Event information posted here is subject to change depending on the requirements of the conference. If changes do occur, we will email all attendees, and disruption to talk times will be minimized. 
 ```{r}
-library(tidyverse)
+library(readr)
+library(dplyr)
+library(lubridate)
+library(stringr)
 library(knitr)
 library(gt)
 
