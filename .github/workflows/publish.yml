@@ -23,7 +23,7 @@ jobs:
       - name: install R deps
         uses: r-lib/actions/setup-r-dependencies@v2
         with: 
-          needs: |
+          extra-packages: |
             any::tidyverse
             any::gt
             any::knitr
