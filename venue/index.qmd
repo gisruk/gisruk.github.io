@@ -3,7 +3,7 @@ title: Venue
 include-in-header: ../venue_header.html
 ---
 
-## ![](https://raw.githubusercontent.com/pointhi/leaflet-color-markers/master/img/marker-icon-blue.png) Conference Venue: Priory Road Complex, University of Bristol
+# ![](https://raw.githubusercontent.com/pointhi/leaflet-color-markers/master/img/marker-icon-blue.png) Conference Venue: Priory Road Complex, University of Bristol
 
 > Priory Road Complex, 12 Priory Road, Clifton, BS8 1TU
 
@@ -14,59 +14,26 @@ It is situated in the heart of campus, close to the Clifton Down train station.
 
 More information about the venue can be found [here](https://www.bristol.ac.uk/venues/meetings/priory-road-complex/).
 
-<!-- TODO: populate once booked 
+# Social Venues
 
-## ![](https://raw.githubusercontent.com/pointhi/leaflet-color-markers/master/img/marker-icon-blue.png) Dinner Venue: The Faversham
+We have selected a variety of social venues around Bristol to reflect the unique local character of the city of Bristol. 
 
-> The Faversham, 1-5 Springfield Mount, LS2 9NG
+## Famous Royal Navy Volunteer (April 22nd, Early Career Researcher Social)
 
-The conference dinner will be hosted at The Faversham, which is located close to
-the University of Leeds.
+The Famous Royal Navy Volunteer (or "Volley") is a craft beer and cider pub operating in some fashion as a pub since the late 17th Century. It serves a selection of local craft ales and local regional specialty ciders. 
 
-## ![](https://raw.githubusercontent.com/pointhi/leaflet-color-markers/master/img/marker-icon-blue.png) Post-Reception Social Venue: Roxy Ball Room
+For more information, consult their website:
 
-> Roxy Ball Room, 58 Boar Lane, LS1 6HW
+[`https://navyvolunteer.co.uk/`](https://navyvolunteer.co.uk/)
 
-The post-reception social on Wednesday evening will be hosted at Roxy Ball Room
-on Boar Lane just a few minutes walk from the conference venue.
+## Zerodegrees Microbrewery (April 23rd, Peter Haggett Memorial Social)
 
-## ![](https://raw.githubusercontent.com/pointhi/leaflet-color-markers/master/img/marker-icon-blue.png) ECR Social Venue: Parkside Tavern
+The Zerodegrees Microbrewery is a dining and event space near the University of Bristol, offering great views of the city center alongside excellent food and award-winning beer. 
 
-> Parkside Tavern, Merrion Street, LS2 8JE 
+[`Zerodegrees Microbrewery Bristol`](https://www.zerodegrees.co.uk/restaurants/zerodegrees-microbrewery-bristol/)
 
-The ECR social on Tuesday evening will be hosted at Parkside Tavern.
+## Browns Brasseries (April 24th, Conference Dinner)
 
-## ![](https://raw.githubusercontent.com/pointhi/leaflet-color-markers/master/img/marker-icon-gold.png) Other Places...
+Browns Brasserie is a dining and event space near the University of Bristol. It is located between the skyline-defining Wills Memorial Tower and the School of Geographical Sciences on the region of Bristol affectionately known as "the Triangle," with many other shops and amenities. 
 
-Beyond the main conference venues outlined above, we have also curated a short
-list of other places that visitors to Leeds may enjoy at the end of a conference
-day.
-These all lie around the city centre and can be seen on the map below.
-
-* **The Bankers Cat:** Located within 5 mins walk of the conference venue and
-around the corner from the train station, The Bankers Cat has a lovely selection
-of beers and an area with large tables in the basement vault for groups.
-* **Tapped:** Just across the road from the Bankers Cat, you will find Tapped
-which also serves a great selection of beers as well stone baked pizzas.
-* **North Taproom:** If you are looking to sample some of the brilliant beers on
-offer from Leeds' local breweries, then North Taproom is a good place to start.
-Run by North Brewing, this taproom serves a great selection of beers as well as
-street food from Little Bao Boy.
-* **The Northern Market:** Previously Assembly Underground (and Carpe Diem
-before that), The Northern Market is now a beer hall and food market run by another of Leeds' local breweries - Northern Monk. If you are looking for a stop on your way up towards the conference dinner then this is a good one.
-* **Whitelock's Ale House & The Turk's Head:** First opened in 1715, Whitelock's
-stakes a claim to being Leeds' oldest pub. Tucked away down an alley off of
-Briggate along with its sister pub - The Turk's Head - Whitelock's is a part of
-Leeds pub history and serves a selection of real ale and independent craft
-beers.
-* **Below Stairs:** If beer isn't really your thing and you are looking for
-cocktails instead then Below Stairs is a hidden gem. Tucked away on South
-Parade, this cocktail bar boasts a unique menu worth checking out.
-
-Other places of interest include:
-
-* **Kirkgate Market:** Located on the East side of the city centre, Kirkgate
-  Market is one of largest covered markets in Europe and hosts a range of
-  vendors. If you are looking for a place for some food on Friday after the 
-  conference then it is worth checking out the market food court.
--->
+[`Browns Bristol`](https://www.browns-restaurants.co.uk/restaurants/southwest/bristol#/)
