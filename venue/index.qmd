@@ -9,18 +9,17 @@ include-in-header: ../venue_header.html
 
 ![](https://keystoneacademic-res.cloudinary.com/image/upload/f_auto/q_auto/g_auto/w_650/dpr_2.0/element/24/241331_2336_10016853.png "Priory Road Complex Entrance")
 
-This year's GISRUK will be held at the Priory Road Complex, which is a teaching and events space at the University of Bristol.
-It is situated in the heart of campus, close to the Clifton Down train station.
+This year's GISRUK will be held at the Priory Road Complex, which is a teaching and events space at the University of Bristol. It is situated in the heart of campus, close to the Clifton Down train station.
 
 More information about the venue can be found [here](https://www.bristol.ac.uk/venues/meetings/priory-road-complex/).
 
 # Social Venues
 
-We have selected a variety of social venues around Bristol to reflect the unique local character of the city of Bristol. 
+We have selected a variety of social venues around Bristol to reflect the unique local character of the city of Bristol.
 
 ## Famous Royal Navy Volunteer (April 22nd, Early Career Researcher Social)
 
-The Famous Royal Navy Volunteer (or "Volley") is a craft beer and cider pub operating in some fashion as a pub since the late 17th Century. It serves a selection of local craft ales and local regional specialty ciders. 
+The Famous Royal Navy Volunteer (or "Volley") is a craft beer and cider pub operating in some fashion as a pub since the late 17th Century. It serves a selection of local craft ales and local regional specialty ciders.
 
 For more information, consult their website:
 
@@ -28,12 +27,12 @@ For more information, consult their website:
 
 ## Zerodegrees Microbrewery (April 23rd, Peter Haggett Memorial Social)
 
-The Zerodegrees Microbrewery is a dining and event space near the University of Bristol, offering great views of the city center alongside excellent food and award-winning beer. 
+The Zerodegrees Microbrewery is a dining and event space near the University of Bristol, offering great views of the city center alongside excellent food and award-winning beer.
 
 [`Zerodegrees Microbrewery Bristol`](https://www.zerodegrees.co.uk/restaurants/zerodegrees-microbrewery-bristol/)
 
 ## Browns Brasseries (April 24th, Conference Dinner)
 
-Browns Brasserie is a dining and event space near the University of Bristol. It is located between the skyline-defining Wills Memorial Tower and the School of Geographical Sciences on the region of Bristol affectionately known as "the Triangle," with many other shops and amenities. 
+Browns Brasserie is a dining and event space near the University of Bristol. It is located between the skyline-defining Wills Memorial Tower and the School of Geographical Sciences on the region of Bristol affectionately known as "the Triangle," with many other shops and amenities.
 
 [`Browns Bristol`](https://www.browns-restaurants.co.uk/restaurants/southwest/bristol#/)
