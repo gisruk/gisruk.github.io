@@ -20,4 +20,4 @@ Chairs should ensure talks start at their scheduled times. This means chairs sho
 
 # Voting for awards
 
-Information will be posted at the conference on how to vote for your favorite paper. We will use voting from attendees to determine the **Best Overall Paper** and the **Best Overall Poster**. In addition, the [GoFundGeo](../osgeo) and the [Sinesio Alves Junior](https://www.ucl.ac.uk/bartlett/casa/remembering-sinesio-alves-junior) prizes will be administered by OSGeo and CASA, respectively. 
+Information will be posted at the conference on how to vote for your favorite paper. We will use voting from attendees to determine the **Best Overall Paper** and the **Best Overall Poster**. In addition, the [GoFundGeo](../osgeo) and the [Sinesio Alves Junior](https://www.ucl.ac.uk/bartlett/casa/remembering-sinesio-alves-junior) prizes will be administered by OSGeo:UK and CASA, respectively. 
