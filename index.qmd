@@ -7,14 +7,9 @@ title: "GISRUK 2025 : University of Bristol"
 
 ### Updates
 
-**Welcome**. We very much look forward to seeing you in Bristol! Keep an eye out on this page as we post further updates in the next few days. 
+**Best paper / poster prize**. As ever, remember to vote for the [{{< fa solid link >}}Best Paper awards](https://forms.gle/XZEFKSbdxwEAbpfg8). 
 
-<!--
-**Best paper / poster prize**. As ever, remember to vote for the [{{< fa solid link >}}Best Paper awards](https://forms.office.com/e/6nf8Ut36ZF).  
-
-
-**Socials**. This evening's conference dinner is at [{{< fa solid link >}}Browns?]() from 1900. 
--->
+**Socials**. This evening's conference dinner is at [{{< fa solid link >}}Browns Brasserie](https://www.browns-restaurants.co.uk/restaurants/southwest/bristol#/) from 19:00. Please check your order [{{< fa solid link >}}here](venue/#browns-dinner-orders)
 
 :::
 
