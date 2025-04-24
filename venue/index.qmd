@@ -42,7 +42,7 @@ Browns Brasserie is a dining and event space near the University of Bristol. It 
 
 
 ```{r, include=F}
-install.packages("reactable", repos="https://cloud.r-project.org", verbose=F)
+install.packages(c("reactable","rmarkdown"), repos="https://cloud.r-project.org", verbose=F)
 ```
 
 ```{r echo=F, message=F, warning=F}
